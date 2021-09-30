@@ -1,0 +1,68 @@
+- name: Krypto Price Tracker
+  url: https://swarag-n.github.io/krypto-price-tracker/
+  description: Implemented price alert application that triggers an email when the user’s target price is achieved. REST API endpoints Django Rest Framework.
+  status: live
+  tags:
+    - Django
+    - Celery
+    - Docker
+  icon: website
+
+- name: Webhooks Microservice
+  url: https://swarag-n.github.io/Webhooks-Microservice/
+  description: Implemented a Webhooks Service using Moleculer (Progressive microservices framework for Node.js.) and Express (Back-End for Node.js).
+  status: live
+  tags:
+    - Moleculer
+    - Node.js
+  icon: website
+  # image: images/Webhooks-Microservice.png
+
+- name: Blockchain Based E-Voting System
+  url: https://github.com/Swarag-N/E-Voting-BlockChain
+  description: Built a blockchain based e-voting system using python and flask that can help reduce Electoral fraud.
+  status: live
+  tags:
+    - Flask
+    - ngrok
+    - Docker
+  icon: github
+
+- name: Library Management System
+  url: https://github.com/Swarag-N/Library-Management-System
+  description: The backend of a Library Management System consolidating best practices in software development like Unit Testing, Code Coverage and Documentation from within the source code. 
+  status: live
+  tags:
+    - Node.js
+    - Mocha
+    - Swagger
+    - CI
+  icon: github
+
+- name: Book Store
+  url: https://www.youtube.com/watch?v=rkQLRYt--8M
+  description: An online E- Commerce site especially for books. Integrated with Order and Payment Architecture. 
+  status: live
+  tags:
+    - Django
+    - Stripe API
+  icon: website
+
+- name: Dev Helper
+  url: https://chrome.google.com/webstore/detail/dev-helper/gefbfanlgpapjneilaccgldmbhbgihdc
+  description: Developer Utility Tool, for front-end developers to quickly debug CSS properties. Is a chrome Extension view borders of DOM Elements (on mouse hover). 
+  status: live
+  tags:
+    - Chrome API
+    - JavaScript
+  icon: website
+
+- name: Yelp Movies
+  url: https://kinda-movie-reviews.herokuapp.com/
+  description: Developed a web application with authenticated and authorized routes for Users to share three views on a movie. Users could comment and post about different movies.  
+  status: live
+  tags:
+    - Node.js
+    - MongoDB
+    - Bootstrap
+  icon: website

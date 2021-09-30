@@ -1,0 +1,29 @@
+- profile:
+  initials: SN
+  name: Swarag Narayanasetty
+  profession: Backend Developer
+  image: images/profile.jpg
+  location: Vizag, IND
+  relocation: true
+  company: Krypto
+  for_hire: false
+  focus: Learning Distributed Systems
+  focus_url: https://gun.eco/
+  about: |
+    Open to challenging position in a high-quality engineering environment where my resourceful experience and academic skills will add value to organizational operations.
+  skills:
+    - Django
+    - Node.js
+    - REST API & DRF
+    - SQL & NOSQL
+    - JavaScript Programming
+    - Java 8 Programming
+  tools:
+    - Git
+    - Docker
+    - VSCode
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
