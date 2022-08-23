@@ -3,9 +3,9 @@
   name: Swarag Narayanasetty
   profession: Backend Developer
   image: images/profile.jpg
-  location: Vizag, IND
-  relocation: true
-  company: Krypto
+  location: Bengaluru, IND
+  relocation: false
+  company: Brine & Krypto
   for_hire: false
   focus: Learning Distributed Systems
   focus_url: https://gun.eco/
